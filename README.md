@@ -5,5 +5,6 @@ neural network and deep learning by Andrew NG [-->](https://www.coursera.org/lea
 
 ## Activation Function
    #### Sigmoid 
+           1/1+e^(-Z)
  
 
