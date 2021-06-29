@@ -12,4 +12,10 @@ neural network and deep learning by Andrew NG [-->](https://www.coursera.org/lea
            
            
    #### softmax [-->](https://towardsdatascience.com/derivative-of-the-softmax-function-and-the-categorical-cross-entropy-loss-ffceefc081d1) 
+   
+   
+   #### relu 
+   max(0,Z)
+   
+   
 
