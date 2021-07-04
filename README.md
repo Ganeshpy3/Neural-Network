@@ -18,4 +18,11 @@ neural network and deep learning by Andrew NG [-->](https://www.coursera.org/lea
    max(0,Z)
    
    
+ ## Regularization 
+ 
+     L2 Regularization 
+     
+     Dropout
+   
+   
 
