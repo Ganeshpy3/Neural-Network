@@ -25,4 +25,6 @@ neural network and deep learning by Andrew NG [-->](https://www.coursera.org/lea
      Dropout
    
    
+   Hand Written Digit recognition 
+   
 
