@@ -25,6 +25,6 @@ neural network and deep learning by Andrew NG [-->](https://www.coursera.org/lea
      Dropout
    
    
-   Hand Written Digit recognition 
+   Hand Written Digit recognition using CNN[-->](https://github.com/Ganeshpy3/Neural-Network/tree/main/kaggle%20competition)
    
 
