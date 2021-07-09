@@ -15,8 +15,11 @@ course 4 CNN [-->](https://www.coursera.org/learn/convolutional-neural-networks/
    #### softmax [-->](https://towardsdatascience.com/derivative-of-the-softmax-function-and-the-categorical-cross-entropy-loss-ffceefc081d1) 
    
    
-   #### relu 
+   #### ReLu 
    max(0,Z)
+   
+   #### Leaky ReLu
+   max(0.01 *Z,Z)
    
    
  ## Regularization 
