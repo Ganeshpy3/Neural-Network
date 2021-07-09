@@ -2,6 +2,7 @@
 ### cousera course 
 neural network and deep learning by Andrew NG [-->](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
 
+course 4 CNN [-->](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
 
 ## Activation Function
    #### Sigmoid 
